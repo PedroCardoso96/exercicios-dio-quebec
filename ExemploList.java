@@ -107,7 +107,5 @@ public class ExemploList {
         notas2.remove(0);
         System.out.println("Moestre a primeira nota removendo-a: " + notas2.get(0));
 
-
-
     }
 }
